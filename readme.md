@@ -6,4 +6,14 @@ Duck hunt was originally meant to be a recreation of the NES game duck hunt. Eve
 
 ## i want to see!
 
-Here is a video showcasing duck hunt 
+Here is a video showcasing duck hunt: https://drive.google.com/file/d/1i2uDGedJ81TM3GMW8VTUybMc1HhdBM37/view?usp=drivesdk
+
+## BOM
+
+*2X ESP 32 C3 SUPER
+*2X ir recievers
+*1X IR emmeter 
+* jumper cables
+
+
+
