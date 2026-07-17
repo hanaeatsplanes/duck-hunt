@@ -17,5 +17,6 @@ Here is a video showcasing duck hunt: https://drive.google.com/file/d/1i2uDGedJ8
 * 1X IR emmeter 
 * jumper cables
 
-
+## photo
+<img src="https://cdn.hackclub.com/019f6d84-8015-739d-8e7d-92945b439fab/img_5555.jpg">
 
