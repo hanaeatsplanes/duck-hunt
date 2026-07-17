@@ -1,4 +1,4 @@
-#duck hunt
+# duck hunt
 > made by astra and Sahana 
 
 ## What is this? 
@@ -10,9 +10,11 @@ Here is a video showcasing duck hunt: https://drive.google.com/file/d/1i2uDGedJ8
 
 ## BOM
 
-*2X ESP 32 C3 SUPER
-*2X ir recievers
-*1X IR emmeter 
+* 2X ESP 32 C3 SUPER
+
+* 2X ir recievers
+
+* 1X IR emmeter 
 * jumper cables
 
 
